@@ -1,6 +1,5 @@
 def add_numbers(a, b):
-    #COMMENT FROM multiply_numbers
-    return a + b
+    return a + b # not new
 
 
 def multiply_numbers(a, b):
